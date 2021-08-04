@@ -7,7 +7,7 @@ A simple bash script that animates the supercomputer boot sequence from Evangeli
 
 ## Featured
 This was used in the screenshots for taking an accurate representation of the animation.
-- __[cool-retro-term](https://github.com/Swordfish90/cool-retro-term/)__ - A terminal emulator that looks like old CRT's makes this project come to life.
+- __[cool-retro-term](https://github.com/Swordfish90/cool-retro-term/)__ - A terminal emulator that looks like old CRTs makes this project come to life.
 ## Pictures
 https://imgur.com/gallery/YYUURM9
 
