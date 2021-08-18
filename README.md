@@ -13,6 +13,13 @@ https://imgur.com/gallery/YYUURM9
 
 ---
 
+## TO-DO
+- Tidy up code and look for cleaner syntax
+- make a c++ version for windows
+- make a startuop script after kernel boot before user login (could be cool)
+
+---
+
 | Amber | Green | cool-retro-term |
 |---|---|---|
 |![redboot](https://user-images.githubusercontent.com/54751617/128146068-dc3042cf-e208-4d8a-add1-f1c55501cee0.jpg)|![greenboot](https://user-images.githubusercontent.com/54751617/128146070-5b095ed3-dee7-4e05-9523-73e4b0da5746.gif)|![Jet_Alone_BOOT_1920x1080](https://user-images.githubusercontent.com/54751617/128146737-b0924832-6cc8-4b25-b988-88514c1ee81a.png)|
